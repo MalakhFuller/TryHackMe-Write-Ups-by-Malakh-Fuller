@@ -9,7 +9,7 @@ Understand foundational Linux logging concepts, including log sources, log forma
 ## Tools and Technologies
 - Tools: cat, grep, nano
 - Technologies: Linux, NGINX, rsyslog, logrotate
-- Prerequisites: Security+, TryHackMe Junior Security Analyst Intro
+- Prior Knowledge: A+/Networking+/Security+, TryHackMe Junior Security Analyst Intro
 
 ## Summary
 This hands-on lab introduced core Linux logging concepts with direct relevance to SOC operations. I examined web server and system logs, identified log formats, investigated suspicious browser activity, configured rsyslog for targeted log collection, and implemented log rotation with tamper-evident hashing.
