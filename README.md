@@ -13,7 +13,8 @@ This repository documents my hands-on SOC preparation through TryHackMe labs foc
 - Incident response fundamentals
 
 ## Featured Write-Ups
-- [Intro to Logs](./Intro-to-Logs.md)
+- [Intro to Logs](./Try-Hack-Me_Intro-to-Logs.md)
+- [Threat Intelligence Tools](./Try-Hack-Me_Threat-Intelligence-Tools.md)
 
 ## Tools and Concepts Covered
 - Linux
