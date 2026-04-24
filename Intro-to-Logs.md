@@ -1,6 +1,7 @@
 # TryHackMe: Intro to Logs
-Completed: 2026-04-15  
-Author: Malakh Fuller
+- Room: https://tryhackme.com/room/introtologs
+- Completed: 2026-04-15  
+- Author: Malakh Fuller
 
 ## Room Objective
 Understand foundational Linux logging concepts, including log sources, log formats, log collection, and log rotation. From a SOC perspective, these skills matter because logs are primary evidence for detection, alert validation, and incident reconstruction.
