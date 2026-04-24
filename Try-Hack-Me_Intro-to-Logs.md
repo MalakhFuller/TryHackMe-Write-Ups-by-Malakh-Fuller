@@ -142,4 +142,4 @@ Through contextual correlation, log data can answer the same foundational questi
 Just as in CI work, the strength of log analysis lies not in isolated facts, but in the synthesis of multiple signals into a coherent, defensible narrative that supports decision‑making.
 
 ## Author: 
-[Malakh Fuller]([https://example.com](https://www.linkedin.com/in/malakhfuller/))
+[Malakh Fuller](https://www.linkedin.com/in/malakhfuller/)
